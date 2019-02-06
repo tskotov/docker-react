@@ -1,3 +1,4 @@
+# Travis-CI configuration
 sudo: required
 services:
   - docker
